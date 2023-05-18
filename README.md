@@ -19,4 +19,4 @@
 
 <img width="639" alt="1" src="./image/3.png">
 
-$color{red}{注：地区和手机号间隔逗号为英文逗号}$ 
+$\color{red}{注：地区和手机号间隔逗号为英文逗号}$ 
